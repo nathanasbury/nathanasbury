@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nathanasbury
+- 👋 Hi, I’m Nathan Asbury
 - 🌱 I’m currently studying Electrical Engineering with a focus on sustainable infrastructure at The Ohio State University
 - 👀 I’m interested in expanding my skills past the physical portion of electricty
 - 💞️ I’m looking to collaborate on any projects dealing with environmental factors
